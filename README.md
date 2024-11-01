@@ -1,7 +1,7 @@
 # nunu.github.io
 PURPOSE
 
-The purpose of this iOS application is to tailor news stories to the current emotion of the user. Nobody wants to have their mood ruined by seeing a news segment they didn't want to see. Also, it can be overall helpful to be able to filter news stories by something like emotion to weed out uninteresting stories. 
+Nobody wants their mood ruined by seeing news they didn't want to see. The purpose of nunu is to tailor news segments to the emotion of the user. The goal is to help users see the information they truly want to see and filter news stories simply, weeding out unintended, uninteresting stories. 
 
 CURRENT
 
